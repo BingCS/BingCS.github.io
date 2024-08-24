@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-description: Assistant Professor @ <a href="https://www.polyu.edu.hk/aae/people/academic-staff/dr-wang-bing/" target="_blank">Department of Aeronautical and Aviation Engineering</a>, 
-  <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a> 
+description: Associate Professor @ <a href="https://profiles.ucl.ac.uk/97533-chris-xiaoxuan-lu" target="_blank">Department of Computer Science</a>, 
+  <a href="https://www.ucl.ac.uk" target="_blank">University College London</a> 
 
 profile:
   align: right
