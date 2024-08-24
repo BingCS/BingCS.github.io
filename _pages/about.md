@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-description: Associate Professor @ <a href="https://profiles.ucl.ac.uk/97533-chris-xiaoxuan-lu" target="_blank">Department of Computer Science</a>, 
-  <a href="https://www.ucl.ac.uk" target="_blank">University College London</a> 
+subtitle: Associate Professor @ <a href="https://profiles.ucl.ac.uk/97533-chris-xiaoxuan-lu" target="_blank">Department of Computer Science</a>, 
+  <a href="https://www.ucl.ac.uk" target="_blank">University College London</a>
 
 profile:
   align: right
