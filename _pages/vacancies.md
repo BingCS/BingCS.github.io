@@ -1,30 +1,25 @@
 ---
 layout: page
 permalink: /vacancies/
-title: vacancies
-#description: current openings in MAPS Lab
+title: Vacancies
+#description: current openings in SPACE Lab
 nav: true
 navigation_weight: 50
 ---
 
-*Last update: 29 March, 2024*
+*Last update: 25 August, 2024*
 
 ---
-## **POSTDOC POSITION**
+## **Postdoc Positions**
 
 I have one PostDoc opening in scaling visual language models to resource-constrained platforms. Please contact me with your publication list and latest CV.
 
 ---
-## **PHD POSITION**
+## **PHD Positions**
 
-I constantly recruit 1-2 PhD students every year. Please contact me if you are interested. 
-
----
-## **VISITOR POSITION**
-
-We regularly accept exceptional visiting PhD students who have strong publication record in top venues about sensing, robotics and computer vision. If you are interested in visiting us, please send us a description of your research and your publication list. Please read [here](https://www.ucl.ac.uk/prospective-students/international/study-abroad-and-exchange/visiting-research-students) if you are interested. Note, we cannot provide financial assistance for visiting students. 
+I constantly recruit 2-4 PhD students every year. Please contact me if you are interested. 
 
 ---
-## **INTERNSHIP POSITION**
+## **Visiting Positions**
 
-NO. We do NOT take ANY interns. Please do NOT email me about the internship opportunity.
+We regularly accept exceptional visiting PhD students who have strong publication record in top venues about sensing, robotics and computer vision. If you are interested in visiting us, please send us a description of your research and your publication list.
