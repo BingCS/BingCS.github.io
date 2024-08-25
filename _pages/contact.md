@@ -7,5 +7,5 @@ nav: false
 nav_order: 10
 ---
 
-Address: 66-72 Gower Street, London, WC1E 6EA<br>
-Email: xiaoxuan.lu [at] ucl.ac.uk
+Address: QR828, The Hong Kong Polytechnic University, 11 Yuk Choi Rd, Hung Hom, Hong Kong
+Email: bingwang@polyu.edu.hk
