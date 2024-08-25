@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /contact/
+permalink: /Contact/
 title: Contact
 #description: 
 nav: false
