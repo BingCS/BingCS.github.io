@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ <a href="https://www.polyu.edu.hk/aae/people/academic-staff/dr-wang-bing/" target="_blank">Department of Aeronautical and Aviation Engineering</a>, 
+subtitle: Assistant Professor @ <a href="https://www.polyu.edu.hk/aae/people/academic-staff/dr-wang-bing/" target="_blank">Faculty of Engineering</a>, 
   <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a>
 
 profile:
