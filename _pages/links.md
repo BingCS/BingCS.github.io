@@ -1,17 +1,15 @@
 ---
 layout: page
 permalink: /links/
-title: links
+title: Links
 #description: 
 nav: false
-navigation_weight: 70
+nav_order: 9
 ---
 
 <font size="4"> Deadline Trackers </font>
 
 - Robotics & AI Conference Deadlines [[Link]](https://aideadlin.es/?sub=CV,RO)
-- Systems & Networks Conference Deadlines [[Link]](http://ct.cswu.me/)
-- Security & Privacy Conference Deadlines [[Link]](https://sec-deadlines.github.io/)
 
 <font size="4"> Academic Advices </font>
 
