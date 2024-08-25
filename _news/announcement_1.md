@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-02
+date: 2024-08-25
 inline: true
 ---
 
-🎉 Two papers accepted to [ECCV-2024](https://eccv.ecva.net/). See you at Milano!
+Openings: Several fully funded PostDoc/PhD/RA positions for 3D Vision/Robot Learning are available now. Email me with your CV and transcripts!
