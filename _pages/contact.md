@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 #description: 
 nav: false
-navigation_weight: 10
+nav_order: 10
 ---
 
 Address: 66-72 Gower Street, London, WC1E 6EA<br>
