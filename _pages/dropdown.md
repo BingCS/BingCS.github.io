@@ -5,9 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: links
+  - title: Links
     permalink: /links/
   - title: divider
-  - title: contact
+  - title: Contact
     permalink: /contact/
 ---
