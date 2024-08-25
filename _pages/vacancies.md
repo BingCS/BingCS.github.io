@@ -17,7 +17,7 @@ I have one PostDoc opening in scaling visual language models to resource-constra
 ---
 ## **PHD Positions**
 
-I constantly recruit 2-4 PhD students every year. Please contact me if you are interested. 
+I constantly recruit 2-3 PhD students every year. Please contact me if you are interested. 
 
 ---
 ## **Visiting Positions**
