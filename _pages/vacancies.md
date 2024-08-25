@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-*Last update: 25 August, 2024*
+*Last Update: 25 August, 2024*
 
 ---
 ## **Postdoc Positions**
