@@ -12,7 +12,7 @@ nav_order: 5
 ---
 ## **Postdoc Positions**
 
-I have one PostDoc opening in 3D Computer Vision, Robotics and Underwater SLAM. Please contact me with your publication list and latest CV.
+I have 4 Postdocs opening in 3D Computer Vision, Robotics and Underwater SLAM. Please contact me with your publication list and latest CV.
 
 ---
 ## **PhD Positions**
