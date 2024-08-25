@@ -4,7 +4,7 @@ permalink: /vacancies/
 title: Vacancies
 #description: current openings in SPACE Lab
 nav: true
-nav_order: 7
+nav_order: 5
 ---
 
 *Last update: 25 August, 2024*
