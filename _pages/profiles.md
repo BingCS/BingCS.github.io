@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Team
-description: members of the lab or group
+title: SPACE
+description: Members of the Spatial Intelligence (SPACE) Group
 nav: true
 nav_order: 7
 
