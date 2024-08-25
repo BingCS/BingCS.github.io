@@ -15,7 +15,7 @@ nav_order: 5
 I have one PostDoc opening in 3D Computer Vision, Robotics and Underwater SLAM. Please contact me with your publication list and latest CV.
 
 ---
-## **PHD Positions**
+## **PhD Positions**
 
 I constantly recruit 2-3 PhD students every year. Please contact me if you are interested. 
 
