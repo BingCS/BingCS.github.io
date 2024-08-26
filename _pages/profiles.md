@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: SPACE
-description: Members of the Spatial Intelligence (SPACE) Group
+description: Members of the Spatial Intelligence (SPACE) Lab
 nav: true
 nav_order: 2
 
