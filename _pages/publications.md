@@ -8,7 +8,7 @@ nav: true
 nav_order: 3
 ---
 
-Only recent publications are listed here. The full list can be found in my [DBLP](https://dblp.org/pid/154/4313.html).
+Only recent publications are listed here. The full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=W7QhPeUAAAAJ&hl=zh-CN).
 
 <div class="publications">
 
