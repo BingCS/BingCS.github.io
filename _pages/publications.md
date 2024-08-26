@@ -8,16 +8,14 @@ nav: true
 nav_order: 3
 ---
 
-Only recent publications are listed here. The full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=W7QhPeUAAAAJ&hl=zh-CN).
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
 
 <div class="publications">
 
-<h2 class="year">preprints</h2>
-{% bibliography -f papers -q @*[preprint=true]* %}
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} && preprint!=true]* %}
-{% endfor %}
+{% bibliography %}
 
 </div>
