@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Projects
 description: Ongoing and completed research projects by MAPS Lab
-nav: true
+nav: false
 nav_order: 4
 ---
 
