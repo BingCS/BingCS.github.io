@@ -5,8 +5,6 @@ permalink: /projects/
 description: Ongoing and completed research projects by SPACE Lab
 nav: true
 nav_order: 4
-display_categories: [work, fun]
-horizontal: false
 ---
 
 ---
