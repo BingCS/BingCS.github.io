@@ -7,6 +7,7 @@ nav: false
 nav_order: 4
 ---
 
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
