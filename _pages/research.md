@@ -4,7 +4,7 @@ permalink: /research/
 title: Projects
 description: Ongoing and completed research projects by MAPS Lab
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ---
