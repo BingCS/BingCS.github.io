@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Ongoing and completed research projects by SPACE Group
-nav: false
+nav: true
 nav_order: 4
 ---
 
