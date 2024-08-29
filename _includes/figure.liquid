@@ -19,7 +19,7 @@
           sizes="{{include.sizes}}"
           {{"imagemagick", sizes}}
         {% else %}
-          sizes="25vw"
+          sizes="75vw"
           {{"imagemagick", "25vw"}}
         {% endif %}
         type="image/webp"
@@ -33,7 +33,7 @@
       {% if include.width %}
         width="{{ include.width }}"
       {% else %}
-        width="25%"
+        width="75%"
       {% endif %}
       {% if include.height %}
         height="{{ include.height }}"
