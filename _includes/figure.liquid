@@ -17,8 +17,10 @@
         srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}"
         {% if include.sizes %}
           sizes="{{include.sizes}}"
+          {{"imagemagick", sizes}}
         {% else %}
           sizes="25vw"
+          {{"imagemagick", "25vw"}}
         {% endif %}
         type="image/webp"
       >
