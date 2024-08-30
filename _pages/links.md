@@ -8,15 +8,13 @@ nav_order: 9
 ---
 
 ---
-<font size="6"> Deadline Trackers </font>
-
-
+<font size="5"> Deadline Trackers </font>
+<br />
 - Robotics & AI Conference Deadlines [[Link]](https://aideadlin.es/?sub=CV,RO)
 
 ---
-<font size="6"> Academic Advices </font>
-
-
+<font size="5"> Academic Advices </font>
+<br />
  - How to have a bad career in research/academia (by David Patterson) [[Link](https://www.youtube.com/watch?v=Rn1w4MRHIhc)]
  - Advice on Research and Writing [[Link](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)]
  - How to write a bad article (by Fredo Durand) [[Link]](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
