@@ -27,6 +27,6 @@ nav_order: 5
 <section>
   <h4>Visiting Positions</h4>
   
-  I constantly recruit 2-3 PhD students every year. Please contact me if you are interested. 
+  We regularly accept exceptional visiting PhD students who have strong publication record in top venues about perception, robotics and computer vision. If you are interested in visiting us, please send us a description of your research and your publication list.
   
 </section>
