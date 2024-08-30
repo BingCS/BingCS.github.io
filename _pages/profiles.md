@@ -14,16 +14,16 @@ nav_order: 2
   <h4>PhD Students</h4>
   <ul>
         <li>
-            <a href="https://www.linkedin.com/in/zhifeng-gu-2b67412a6/?trk=people-guest_people_search-card&originalSubdomain=hk"  target="_blank"><strong>Zhifeng Gu</strong></a>. September 2023 - present
+            <a href="https://www.linkedin.com/in/zhifeng-gu-2b67412a6/?trk=people-guest_people_search-card&originalSubdomain=hk"  target="_blank"><strong>Zhifeng Gu</strong></a>. BEng@BUAA. September 2023 - present.
         </li>
         <li>
-            <a href="https://fatpeter.github.io/"  target="_blank"><strong>Guangchi Fang</strong></a>. January 2024 - present
+            <a href="https://fatpeter.github.io/"  target="_blank"><strong>Guangchi Fang</strong></a>. BEng@UESTC, MEng@SYSU. January 2024 - present.
         </li>
         <li>
-            <a href="https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN"  target="_blank"><strong>Yanrui Bin</strong></a>. January 2024 - present
+            <a href="https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN"  target="_blank"><strong>Yanrui Bin</strong></a>. BEng, MEng@HUST. <strong>PPPFS</strong></a>, January 2024 - present.
         </li>
         <li>
-            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. May 2024 - present
+            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. BEng@SDU, MEng@USTC May 2024 - present
         </li>  
   </ul>
 </section>
@@ -35,7 +35,7 @@ nav_order: 2
             <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Wenzhi Guo</strong></a>. September 2023 - present
         </li>
         <li>
-            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Di Zhang</strong></a>. January 2024 - present
+            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Di Zhang</strong></a>. September 2024 - present
         </li>
   </ul>
 </section>
