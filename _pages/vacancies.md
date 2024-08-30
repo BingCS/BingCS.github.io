@@ -2,7 +2,7 @@
 layout: page
 permalink: /vacancies/
 title: Vacancies
-description: Current openings in SPACE Lab (Last Update: 25 August, 2024)
+description: "Current openings in SPACE Lab (Last Update: 25 August, 2024)"
 nav: true
 nav_order: 5
 ---
