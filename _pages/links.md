@@ -14,7 +14,7 @@ nav_order: 9
 <section>
   <h4>Deadline Trackers</h4>
   <ul>
-  <li> Robotics & AI Conference Deadlines [[Link]](https://aideadlin.es/?sub=CV,RO) </li>
+  <li> Robotics & AI Conference Deadlines [Link](https://aideadlin.es/?sub=CV,RO) </li>
   </ul>
 </section>
 
