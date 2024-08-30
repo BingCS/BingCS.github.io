@@ -23,7 +23,7 @@ nav_order: 2
             <a href="https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN"  target="_blank"><strong>Yanrui Bin</strong></a>. BEng, MEng@HUST. <strong>PPPFS</strong></a>, January 2024 - present.
         </li>
         <li>
-            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. BEng@SDU, MEng@USTC May 2024 - present
+            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. BEng@SDU, MEng@USTC. May 2024 - present.
         </li>  
   </ul>
 </section>
@@ -32,10 +32,10 @@ nav_order: 2
   <h4>Joint-PhD Students</h4>
   <ul>
         <li>
-            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Wenzhi Guo</strong></a>. September 2023 - present
+            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Wenzhi Guo</strong></a>. PhD@NJU. September 2023 - present.
         </li>
         <li>
-            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Di Zhang</strong></a>. September 2024 - present
+            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Di Zhang</strong></a>. PhD@HIT. September 2024 - present.
         </li>
   </ul>
 </section>
@@ -44,7 +44,7 @@ nav_order: 2
   <h4>Visiting Students</h4>
   <ul>
         <li>
-            <a href="https://www.cs.ox.ac.uk/people/jialu.wang/"  target="_blank"><strong>Jialu Wang</strong></a>. May 2024 - present
+            <a href="https://www.cs.ox.ac.uk/people/jialu.wang/"  target="_blank"><strong>Jialu Wang</strong></a>. Dphil@Oxford. May 2024 - present.
         </li>
   </ul>
 </section>
@@ -54,10 +54,10 @@ nav_order: 2
   <h4>Alumni</h4>
   <ul>
         <li>
-            <a href="https://scholar.google.com/citations?user=fl7zY9gAAAAJ&hl=en"  target="_blank"><strong>Zhaoliang Luan</strong></a>. September 2023 - present
+            <a href="https://scholar.google.com/citations?user=fl7zY9gAAAAJ&hl=en"  target="_blank"><strong>Zhaoliang Luan</strong></a>. Dphil@KU Leuven. September 2023 - January 2024.
         </li>
         <li>
-            <a href="https://alexandor91.github.io/profiles_web/"  target="_blank"><strong>Xueyang Kang</strong></a>. January 2024 - present
+            <a href="https://alexandor91.github.io/profiles_web/"  target="_blank"><strong>Xueyang Kang</strong></a>. Dphil@QMUL. January 2024 - January 2024.
         </li>
   </ul>
 </section>
