@@ -1,23 +1,14 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: SPACE
 description: Members of the Spatial Intelligence (SPACE) Lab
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 ---
 **I lead the [Mobile Autonomy, Perception and Sensing (MAPS)](https://maps-lab.github.io/) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members:** 
-
-<!-- <section>
-  <h4> PostDoc </h4>
-  <ul>
-        <li>
-            <a href="https://www.csc.liv.ac.uk/~ramdrop/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2023 - present
-        </li>
-  </ul>
-</section> -->
 
 <section>
   <h4>PhD Students</h4>
