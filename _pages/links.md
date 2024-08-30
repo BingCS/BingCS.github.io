@@ -7,10 +7,12 @@ nav: false
 nav_order: 9
 ---
 
+---
 <font size="4"> Deadline Trackers </font>
 
 - Robotics & AI Conference Deadlines [[Link]](https://aideadlin.es/?sub=CV,RO)
 
+---
 <font size="4"> Academic Advices </font>
 
  - How to have a bad career in research/academia (by David Patterson) [[Link](https://www.youtube.com/watch?v=Rn1w4MRHIhc)]
