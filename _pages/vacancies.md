@@ -2,12 +2,10 @@
 layout: page
 permalink: /vacancies/
 title: Vacancies
-#description: current openings in SPACE Lab
+description: Current openings in SPACE Lab (Last Update: 25 August, 2024)
 nav: true
 nav_order: 5
 ---
-
-*Last Update: 25 August, 2024*
 
 ---
 <font size="4"> Postdoc Positions </font>
