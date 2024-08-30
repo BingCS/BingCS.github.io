@@ -11,6 +11,13 @@ nav_order: 9
 
 - Robotics & AI Conference Deadlines [[Link]](https://aideadlin.es/?sub=CV,RO)
 
+<section>
+  <h4>Deadline Trackers</h4>
+  <ul>
+  <li> Robotics & AI Conference Deadlines [[Link]](https://aideadlin.es/?sub=CV,RO) </li>
+  </ul>
+</section>
+
 ## **Academic Advices**
 
  - How to have a bad career in research/academia (by David Patterson) [[Link](https://www.youtube.com/watch?v=Rn1w4MRHIhc)]
