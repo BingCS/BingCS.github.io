@@ -8,22 +8,22 @@ nav_order: 2
 ---
 
 ---
-**I lead the [Mobile Autonomy, Perception and Sensing (MAPS)](https://maps-lab.github.io/) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members:** 
+**I lead the [Spatial Intelligence (SPACE)](https://bingcs.github.io/) Lab at the Hong Kong Polytechnic University. I am fortunate to work or have worked with the following members:** 
 
 <section>
   <h4>PhD Students</h4>
   <ul>
         <li>
-            <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
+            <a href="https://www.linkedin.com/in/zhifeng-gu-2b67412a6/?trk=people-guest_people_search-card&originalSubdomain=hk"  target="_blank"><strong>Zhifeng Gu</strong></a>. September 2023 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
+            <a href="https://fatpeter.github.io/"  target="_blank"><strong>Guangchi Fang</strong></a>. January 2024 - present
         </li>
         <li>
-            <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
+            <a href="https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN"  target="_blank"><strong>Yanrui Bin</strong></a>. January 2024 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhekai Duan</strong></a>. Fall 2024 - present
+            <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. May 2024 - present
         </li>  
   </ul>
 </section>
