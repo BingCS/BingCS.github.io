@@ -20,7 +20,7 @@ nav_order: 2
             <a href="https://fatpeter.github.io/"  target="_blank"><strong>Guangchi Fang</strong></a>. BEng@UESTC, MEng@SYSU. January 2024 - present.
         </li>
         <li>
-            <a href="https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN"  target="_blank"><strong>Yanrui Bin</strong></a>. BEng, MEng@HUST. <strong>PPPFS</strong></a>, January 2024 - present.
+            <a href="https://scholar.google.com/citations?user=_9fN3mEAAAAJ&hl=zh-CN"  target="_blank"><strong>Yanrui Bin</strong></a>. BEng, MEng@HUST. <strong>PPPFS</strong>, January 2024 - present.
         </li>
         <li>
             <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. BEng@SDU, MEng@USTC. May 2024 - present.
@@ -29,7 +29,7 @@ nav_order: 2
 </section>
 
 <section>
-  <h4>Joint-PhD Students</h4>
+  <h4>Joint PhD Students</h4>
   <ul>
         <li>
             <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Wenzhi Guo</strong></a>. PhD@NJU. September 2023 - present.
@@ -48,7 +48,6 @@ nav_order: 2
         </li>
   </ul>
 </section>
-
 
 <section>
   <h4>Alumni</h4>
