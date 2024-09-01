@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in **Robotics and Autonomous Systems** at the Faculty of Engineering, The Hong Kong Polytechnic University (PolyU). Before joining PolyU, I was recognized as a TopMinds (天才少年) by Huawei, where I led a research team in the Optical Product Line and developing advanced solutions for Autonomous Driving and AR-HUDs.
+I am an Assistant Professor in **Robotics and Autonomous Systems** at the Faculty of Engineering, The Hong Kong Polytechnic University (PolyU). Before joining PolyU, I was recognized as a TopMinds (天才少年) by Huawei, where I led a research team in the Optical Product Line, developing advanced solutions for Autonomous Driving and AR-HUD.
 
 I completed my DPhil in Computer Science at the University of Oxford, under the supervision of <a href="https://raeng.org.uk/about-us/fellowship/new-fellows-2022/professor-niki-trigoni-freng" target="_blank">Prof. Niki Trigoni</a> and <a href="https://www.cs.ox.ac.uk/people/andrew.markham/" target="_blank">Prof. Andrew Markham</a>. Prior to this, I was supervised by <a href="https://ysg.ckcest.cn/html/details/8332/index.html" target="_blank">Prof. Qingquan Li</a> at Shenzhen University. 
 
