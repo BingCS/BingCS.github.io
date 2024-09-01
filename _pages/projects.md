@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/84f1d57c-c911-4980-91da-54944708f382)---
 layout: page
 title: Projects
 permalink: /research/
