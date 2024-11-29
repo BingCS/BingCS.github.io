@@ -53,10 +53,10 @@ nav_order: 2
   <h4>Alumni</h4>
   <ul>
         <li>
-            <a href="https://scholar.google.com/citations?user=fl7zY9gAAAAJ&hl=en"  target="_blank"><strong>Zhaoliang Luan</strong></a>. Visiting Students, PhD@KU Leuven. September 2023 - January 2024.
+            <a href="https://scholar.google.com/citations?user=fl7zY9gAAAAJ&hl=en"  target="_blank"><strong>Zhaoliang Luan</strong></a>. Visiting Students, PhD@QMUL. September 2023 - January 2024.
         </li>
         <li>
-            <a href="https://alexandor91.github.io/profiles_web/"  target="_blank"><strong>Xueyang Kang</strong></a>. Visiting Students, PhD@QMUL. January 2024 - January 2024.
+            <a href="https://alexandor91.github.io/profiles_web/"  target="_blank"><strong>Xueyang Kang</strong></a>. Visiting Students, PhD@KU Leuven. October 2023 - February 2024.
         </li>
   </ul>
 </section>
