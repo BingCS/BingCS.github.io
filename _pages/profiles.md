@@ -25,6 +25,9 @@ nav_order: 2
         <li>
             <a href="https://bingcs.github.io/people/"  target="_blank"><strong>Xin Deng</strong></a>. BEng@SDU, MEng@USTC. May 2024 - Present.
         </li>  
+        <li>
+            <a href="https://scholar.google.com/citations?user=pIcSPzsAAAAJ&hl=en"  target="_blank"><strong>Shangjia Liu</strong></a>. BEng, MEng@WHU. September 2025 - Present.
+        </li>
   </ul>
 </section>
 
