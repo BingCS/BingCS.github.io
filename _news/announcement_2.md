@@ -4,4 +4,4 @@ date: 2024-06-20
 inline: true
 ---
 
-Our paper [LAWS](https://github.com/WHU-USI3DV/LAWS) is accepted by [ISPRS J](https://www.sciencedirect.com/science/article/abs/pii/S0924271624002557)!
+Our paper [Mini-Splatting2](https://bingcs.github.io/publications/) and [GrowSP++](https://bingcs.github.io/publications/) are accepted by [TPAMI](https://www.computer.org/csdl/journal/tp)!
