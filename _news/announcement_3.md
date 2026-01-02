@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-02
+date: 2025-06-10
 inline: true
 ---
 
-Two papers, [Mini-Splatting](https://github.com/fatPeter/mini-splatting) and [Equi-GSPR](https://eccv.ecva.net/), have been accepted to [ECCV 2024](https://eccv.ecva.net/) as a Poster and an Oral, respectively. See you at Milano!
+Two papers, [CMFM](https://www.sciencedirect.com/science/article/abs/pii/S0924271625003272) and [PF-USIE](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004385), have been accepted to [ISPRS J](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) and [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), respectively!
