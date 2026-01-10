@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-12-31
+date: 2026-01-10
 inline: true
 ---
 
-Several fully funded PhD/RA positions for 3D Vision/Robot Learning are available now. Email me with your CV and transcripts!
+Very honored to join [IEEE Transactions on Image Processing (TIP)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing) as an **Associate Editor**!
